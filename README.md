@@ -58,7 +58,7 @@ I use house features (size, number of rooms, quality, garage, year built, etc.) 
 
     - Trained on 80% of train.csv, tested on 20%
     - RMSE (original price scale): ≈ 20k
-    - R²: ≈ 0.927 (good for a basic model!)
+    - R²: ≈ 0.927 
 
 (Note: Results may vary slightly with random split.)
 
