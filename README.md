@@ -8,10 +8,10 @@ I use house features (size, number of rooms, quality, garage, year built, etc.) 
 
 
   ## Dataset
-    - **Source**: Ames Housing dataset (very popular on Kaggle)
-    - **train.csv** : 1,460 houses with known prices (used for training)
-    - **test.csv** : 1,459 houses (prices to predict)
-    - **Total features**: 80 columns (numeric + categorical)
+    - Source: Ames Housing dataset (very popular on Kaggle)
+    - train.csv : 1,460 houses with known prices (used for training)
+    - test.csv : 1,459 houses (prices to predict)
+    - Total features: 80 columns (numeric + categorical)
 
 ## Tools & Libraries i used
     
